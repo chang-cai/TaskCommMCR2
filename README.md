@@ -40,3 +40,8 @@ This characterization/measure can be applied to measure the accuracy based on th
 
 This work invokes the maximal coding rate reduction (MCR2) as a measure of inference accuracy for both feature encoding and precoding optimization design.
 It endeavors to expand the space spanned by the overall features and, in the meanwhile, to compress the subspace spanned by each individual class, so that different classes are maximally separated.
+
+<p align="center">
+    <img src="sphere_packing_mcr2.png" width="700"\>
+</p>
+<p align="center">
