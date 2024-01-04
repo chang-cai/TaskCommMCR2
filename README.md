@@ -6,6 +6,6 @@ This repository is the official implementation of the paper:
 
 ## Background
 
-### Inconsistent Objectives for Learning and Communication
+### Existing Studies: Inconsistent Objectives for Learning and Communication
 
-### Synergistic Alignment of Learning and Communication Objectives
+### This Work: Synergistic Alignment of Learning and Communication Objectives
