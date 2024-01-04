@@ -13,7 +13,7 @@ This repository is the official implementation of the paper:
 </p>
 <p align="center">
 
-In task-oriented communications,
+In task-oriented communications, most existing work designed the physical-layer communication modules and learning based codecs with distinct objectives.
 
 ### This Work: Synergistic Alignment of Learning and Communication Objectives
 
