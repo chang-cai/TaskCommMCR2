@@ -27,7 +27,7 @@ End-to-end (E2E) learning can be a potential candidate to achieve a consistent d
 However, it is typically unaffordable to train such an E2E network adaptive to varying wireless environments, especially for multi-antenna transceivers that result in a high-dimensional channel matrix.
 This is because the E2E network needs to learn the parameters based on both the task dataset and the entire distribution of wireless channels, incurring a prohibitively large training overhead and unpredictable training complexity.
 
-**In view of the above, we advocate the separation of learning task and communication design, while maintaining a consistent design objective for both modules targeted at inference accuracy maximization.**
+**In view of the above, we advocate the separation of learning task (i.e., feature encoding and classification) and communication design (i.e., precoding optimization), while maintaining a consistent design objective for both modules targeted at inference accuracy maximization.**
 
 ## Why MCR2?
 
