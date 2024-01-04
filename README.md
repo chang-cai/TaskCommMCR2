@@ -5,6 +5,8 @@ This repository is the official implementation of the paper:
 - **Authors:** [Chang Cai](https://chang-cai.github.io/) (The Chinese University of Hong Kong), [Xiaojun Yuan](https://scholar.google.com/citations?user=o6W_m00AAAAJ&hl=en) (University of Electronic Science and Technology of China), and [Ying-Jun Angela Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/) (The Chinese University of Hong Kong)
 
 ## Why MCR$^2$
+MCR$^2$
+
 ### Inconsistent Objectives for Learning and Communication
 
 ### Synergistic Alignment of Learning and Communication Objectives
