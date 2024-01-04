@@ -14,7 +14,7 @@ This repository is the official implementation of the paper:
 <p align="center">
 
 In most of the existing studies on task-oriented communications, the physical-layer design criteria are still throughput maximization, delay minimization, or bit error rate (BER) minimization as in conventional communications, which are not aligned with the design objective of the learning module targeted at accurate execution of specific tasks.
-The inconsistency between learning and communication objectives may hinder the exploitation of the full benefits of task-oriented communications.
+**The inconsistency between learning and communication objectives may hinder the exploitation of the full benefits of task-oriented communications.**
 
 ### This Work: Synergistic Alignment of Learning and Communication Objectives
 
@@ -27,6 +27,6 @@ End-to-end (E2E) learning can be a potential candidate to achieve a consistent d
 However, it is typically unaffordable to train such an E2E network adaptive to varying wireless environments, especially for multi-antenna transceivers that result in a high-dimensional channel matrix.
 This is because the E2E network needs to learn the parameters based on both the task dataset and the entire distribution of wireless channels, incurring a prohibitively large training overhead and unpredictable training complexity.
 
-In view of the above, we advocate the separation of learning task and communication design, while maintaining a consistent design objective for both modules targeted at inference accuracy maximization.
+In view of the above, **we advocate the separation of learning task and communication design, while maintaining a consistent design objective for both modules targeted at inference accuracy maximization.**
 
 ## Why MCR2?
