@@ -38,6 +38,8 @@ It has no explicit expression as a function of the precoders and is thus hard to
 More precisely, we need to formulate a measure on the separability of the different classes of features as a surrogate of the inference accuracy.
 This characterization/measure can be applied to measure the accuracy based on the received features, which is an explicit function of the precoders amenable to optimization.
 
+We note that the loss functions used in existing studies, such as cross-entropy and information bottleneck, rely heavily on the classifier’s output, and thus cannot be applied to the precoding design problem that is separated from the learning task.
+
 This work invokes the maximal coding rate reduction (MCR2) as a measure of inference accuracy for both feature encoding and precoding optimization design.
 It endeavors to expand the space spanned by the overall features and, in the meanwhile, to compress the subspace spanned by each individual class, so that different classes are maximally separated.
 
