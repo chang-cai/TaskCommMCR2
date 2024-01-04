@@ -22,3 +22,5 @@ The inconsistency between learning and communication objectives may hinder the e
     <img src="consistent_system_model.png" width="700"\>
 </p>
 <p align="center">
+
+Instead of end-to-end learning which involves both the task dataset and wireless channel during training, we advocate the separation of learning task and communication design, while maintaining a consistent design objective for both modules targeted at inference accuracy maximization.
