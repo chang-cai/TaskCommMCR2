@@ -49,3 +49,7 @@ It endeavors to expand the space spanned by the overall features and, in the mea
 <p align="center">
 
 ## Simulation Results
+
+### Results on Synthetic Features
+
+### Results on CIFAR-10 and ModelNet10
