@@ -30,3 +30,6 @@ This is because the E2E network needs to learn the parameters based on both the 
 **In view of the above, we advocate the separation of learning task and communication design, while maintaining a consistent design objective for both modules targeted at inference accuracy maximization.**
 
 ## Why MCR2?
+
+**Challenge:** The inference accuracy can only be empirically evaluated over all the testing samples.
+It has no explicit expression as a function of the precoders and is thus hard to optimize directly.
