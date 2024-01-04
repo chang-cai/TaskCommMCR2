@@ -8,4 +8,9 @@ This repository is the official implementation of the paper:
 
 ### Existing Studies: Inconsistent Objectives for Learning and Communication
 
+<p align="center">
+    <img src="inconsistent_system_model.png" width="700"\>
+</p>
+<p align="center">
+
 ### This Work: Synergistic Alignment of Learning and Communication Objectives
