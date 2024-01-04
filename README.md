@@ -36,7 +36,7 @@ It has no explicit expression as a function of the precoders and is thus hard to
 
 **Solution:** It is critical to explicitly characterize the inference accuracy based on the intermediate features instead of relying on the classifier’s output.
 More precisely, we need to formulate a measure on the separability of the different classes of features as a surrogate of the inference accuracy.
-This characterization/measure can be applied to measure the accuracy based on the received features, which is an explicit function of the precoders amenable to optimization.
+This characterization/measure can be applied to measure the accuracy based on the received features/signal, which is an explicit function of the precoders amenable to optimization.
 
 We note that the loss functions used in existing studies, such as cross-entropy and information bottleneck, rely heavily on the classifier’s output, and thus cannot be applied to the precoding design problem that is separated from the learning task.
 
