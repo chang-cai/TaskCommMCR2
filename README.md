@@ -4,7 +4,7 @@ This repository is the official implementation of the paper:
 - **Multi-Device Task-Oriented Communication via Maximal Coding Rate Reduction** [[paper link](https://arxiv.org/abs/2309.02888)]
 - **Authors:** [Chang Cai](https://chang-cai.github.io/) (The Chinese University of Hong Kong), [Xiaojun Yuan](https://scholar.google.com/citations?user=o6W_m00AAAAJ&hl=en) (University of Electronic Science and Technology of China), and [Ying-Jun Angela Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/) (The Chinese University of Hong Kong)
 
-## Background
+## Background and Motivation
 
 ### Existing Studies: Inconsistent Objectives for Learning and Communication
 
@@ -24,3 +24,5 @@ The inconsistency between learning and communication objectives may hinder the e
 <p align="center">
 
 Instead of end-to-end learning which involves both the task dataset and wireless channel during training, we advocate the separation of learning task and communication design, while maintaining a consistent design objective for both modules targeted at inference accuracy maximization.
+
+## Why MCR2?
