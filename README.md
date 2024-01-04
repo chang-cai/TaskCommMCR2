@@ -13,7 +13,7 @@ This repository is the official implementation of the paper:
 </p>
 <p align="center">
 
-The physical-layer design criteria in existing task-oriented communication papers are still throughput maximization, delay minimization, or bit error rate (BER) minimization as in conventional communications, which are not aligned with the design objective of the learning module targeted at accurate execution of specific tasks.
+The physical-layer design criteria in most of the task-oriented communication papers are still throughput maximization, delay minimization, or bit error rate (BER) minimization as in conventional communications, which are not aligned with the design objective of the learning module targeted at accurate execution of specific tasks.
 The inconsistency between learning and communication objectives may hinder the exploitation of the full benefits of task-oriented communications.
 
 ### This Work: Synergistic Alignment of Learning and Communication Objectives
