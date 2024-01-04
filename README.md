@@ -13,6 +13,8 @@ This repository is the official implementation of the paper:
 </p>
 <p align="center">
 
+In task-oriented communications,
+
 ### This Work: Synergistic Alignment of Learning and Communication Objectives
 
 <p align="center">
