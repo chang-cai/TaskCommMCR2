@@ -12,7 +12,7 @@ This repository is the official implementation of the paper:
 ### Existing Studies: Inconsistent Objectives for Learning and Communication
 
 <p align="center">
-    <img src="inconsistent_system_model.png" width="700"\>
+    <img src="./figures/inconsistent_system_model.png" width="700"\>
 </p>
 <p align="center">
 
@@ -22,7 +22,7 @@ In most of the existing studies on task-oriented communications, the physical-la
 ### This Work: Synergistic Alignment of Learning and Communication Objectives
 
 <p align="center">
-    <img src="consistent_system_model.png" width="700"\>
+    <img src="./figures/consistent_system_model.png" width="700"\>
 </p>
 <p align="center">
 
@@ -47,7 +47,7 @@ This work invokes the maximal coding rate reduction (MCR2) as a measure of infer
 It endeavors to expand the space spanned by the overall features and, in the meanwhile, to compress the subspace spanned by each individual class, so that different classes are maximally separated.
 
 <p align="center">
-    <img src="sphere_packing_mcr2.png" width="600"\>
+    <img src="./figures/sphere_packing_mcr2.png" width="600"\>
 </p>
 <p align="center">
 
