@@ -24,6 +24,7 @@ This repository is the official implementation of the paper:
 
 ### Feature Encoding
 - Download images and put it under ```modelnet40_images_new_12x```: [Shaded Images (1.6GB)](http://supermoe.cs.umass.edu/shape_recog/shaded_images.tar.gz).
+If the link does not work, you can download it from my [Google Drive](https://drive.google.com/file/d/1tghRek04_pVHCkYOTOQeYtGlENlgQzhM/view?usp=sharing) backup.
 
 - Set environment: code is tested on ```python 3.7.13``` and ```pytorch 1.12.1```.
 
