@@ -34,8 +34,8 @@ Then, run the script ```main_train_phase2.py``` for the second-phase training of
 
 ### Precoding Optimization and Performance Evaluation
 
-The code is located at the folder ```precoding_opt_matlab```, which is written in matlab.
-Run the script ```main_precoding_opt.m``` to compare the performance of the proposed MCR$^2$ precoder and the LMMSE precoder.
+The code is located at the folder ```precoding_opt_matlab```.
+Run the script ```main_precoding_opt.m``` to compare the performance of the proposed MCR<sup>2</sup> precoder and the LMMSE precoder.
 
 ## Citation
 If you find our work interesting, please consider citing
